@@ -1,0 +1,162 @@
+DiskActivityLed Binary-Only Freeware License
+
+Version 1.0
+Copyright (c) 2026 Alexander V. Zuev
+Author email: avz71@bk.ru
+All rights reserved except as expressly permitted below.
+
+1. Scope
+
+This license applies to the compiled binary releases of DiskActivityLed, including executable files, installers, portable archives, documentation files, and accompanying release packages.
+
+This license does not grant any rights to the source code of DiskActivityLed. The source code is not distributed under this license and remains proprietary unless a separate written license is provided by the copyright holder.
+
+2. Free Use
+
+You may download, install, and use the official binary releases of DiskActivityLed free of charge for personal, educational, non-commercial, and internal business use.
+
+3. Optional Donations
+
+DiskActivityLed is distributed free of charge. Donations, sponsorships, or other voluntary payments are optional and are accepted only as a way to thank and support the author.
+
+Making a donation does not purchase the software, does not create a service contract, does not grant ownership of the software, and does not provide any additional license rights unless separately agreed in writing.
+
+4. Redistribution
+
+You may redistribute unmodified copies of the official binary release packages, provided that:
+
+the files are not modified, repacked, patched, bundled, or renamed in a misleading way;
+this license file and all copyright notices remain included;
+no malware, adware, spyware, unwanted software, advertising wrappers, download managers, or third-party installers are added;
+no fee is charged for the software itself;
+the author’s name and the original project page are not misrepresented;
+checksums, version numbers, and release information are not falsified.
+
+The preferred method of redistribution is linking to the official project page or official release page.
+
+5. Restrictions
+
+You may not:
+
+sell, rent, lease, sublicense, or commercially exploit DiskActivityLed as a standalone product;
+modify, patch, translate, adapt, decompile, disassemble, or reverse engineer the software, except where such restriction is prohibited by applicable law;
+remove or alter copyright notices, author information, license text, version information, or donation/support links;
+distribute modified versions of the software;
+bundle DiskActivityLed with other software, installers, advertising systems, download managers, or commercial packages without prior written permission from the copyright holder;
+use the name “DiskActivityLed” or the author’s name to promote modified, unofficial, or misleading versions of the software.
+6. Source Code
+
+The publication of binary files does not imply publication of the source code.
+
+No permission is granted to copy, use, modify, publish, distribute, or create derivative works from the source code unless the copyright holder provides a separate written license.
+
+7. Trademarks and Names
+
+The names “DiskActivityLed”, “Alezex”, and any associated logos, icons, visual identity elements, or project branding remain the property of their respective owner.
+
+This license does not grant permission to use project names, author names, logos, or branding in a way that suggests endorsement, authorship, or official status.
+
+8. No Warranty
+
+The software is provided “as is”, without warranty of any kind, express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, non-infringement, uninterrupted operation, or error-free operation.
+
+You use the software at your own risk.
+
+9. Limitation of Liability
+
+To the maximum extent permitted by applicable law, the author shall not be liable for any direct, indirect, incidental, special, consequential, exemplary, or other damages arising from the use or inability to use the software, including but not limited to data loss, system failure, loss of profits, business interruption, or hardware or software damage.
+
+10. Updates and Termination
+
+The author may update, change, suspend, or discontinue the software or this license for future versions at any time.
+
+If you violate this license, your rights under this license automatically terminate. Upon termination, you must stop using and distributing the software and delete all copies in your possession, unless otherwise permitted by applicable law.
+
+11. Governing Text
+
+If this license is translated into another language, the English version shall prevail in case of conflict or ambiguity.
+
+
+.................................................................................................
+
+
+Freeware-лицензия только для бинарных файлов DiskActivityLed
+
+Версия 1.0
+Copyright (c) 2026 Alexander V. Zuev
+Email автора: avz71@bk.ru
+Все права защищены, кроме явно разрешённых ниже.
+
+1. Область действия
+
+Настоящая лицензия применяется к скомпилированным бинарным выпускам DiskActivityLed, включая исполняемые файлы, инсталляторы, portable-архивы, документацию и сопутствующие файлы релиза.
+
+Настоящая лицензия не предоставляет никаких прав на исходный код DiskActivityLed. Исходный код не распространяется по этой лицензии и остаётся проприетарным, если правообладатель отдельно письменно не укажет иное.
+
+2. Бесплатное использование
+
+Вы можете бесплатно скачивать, устанавливать и использовать официальные бинарные выпуски DiskActivityLed для личного, образовательного, некоммерческого, а также внутреннего делового использования.
+
+3. Добровольная поддержка автора
+
+DiskActivityLed распространяется бесплатно. Донаты, спонсорская поддержка и иные добровольные платежи являются необязательными и принимаются только как благодарность и поддержка автора.
+
+Донат не является покупкой программы, не создаёт договора обслуживания, не передаёт право собственности на программу и не предоставляет дополнительных лицензионных прав, если это отдельно не согласовано письменно.
+
+4. Распространение
+
+Вы можете распространять неизменённые копии официальных бинарных релизов при соблюдении следующих условий:
+
+файлы не изменяются, не перепаковываются, не патчатся, не включаются в посторонние оболочки и не переименовываются вводящим в заблуждение образом;
+настоящий файл лицензии и все уведомления об авторских правах сохраняются;
+к дистрибутиву не добавляются вредоносные программы, рекламные модули, spyware, unwanted software, сторонние установщики, загрузчики или рекламные обёртки;
+за саму программу не взимается плата;
+имя автора и официальная страница проекта не искажаются;
+контрольные суммы, номера версий и информация о релизе не подделываются.
+
+Предпочтительный способ распространения — ссылка на официальную страницу проекта или официальный релиз.
+
+5. Ограничения
+
+Вы не можете:
+
+продавать, сдавать в аренду, сублицензировать или коммерчески эксплуатировать DiskActivityLed как отдельный продукт;
+изменять, патчить, переводить, адаптировать, декомпилировать, дизассемблировать или выполнять reverse engineering программы, кроме случаев, когда такой запрет не допускается применимым законом;
+удалять или изменять уведомления об авторских правах, сведения об авторе, текст лицензии, информацию о версии или ссылки поддержки автора;
+распространять изменённые версии программы;
+включать DiskActivityLed в другие программы, инсталляторы, рекламные системы, загрузчики или коммерческие пакеты без предварительного письменного разрешения правообладателя;
+использовать название “DiskActivityLed”, имя автора или оформление проекта для продвижения изменённых, неофициальных или вводящих в заблуждение версий программы.
+6. Исходный код
+
+Публикация бинарных файлов не означает публикацию исходного кода.
+
+Не предоставляется разрешение копировать, использовать, изменять, публиковать, распространять исходный код или создавать производные работы на его основе, если правообладатель отдельно письменно не предоставил такую лицензию.
+
+7. Названия и оформление
+
+Названия “DiskActivityLed”, “Alezex”, а также связанные логотипы, иконки, элементы визуального оформления и брендинга остаются собственностью соответствующего правообладателя.
+
+Настоящая лицензия не предоставляет права использовать названия проекта, имя автора, логотипы или оформление способом, который может создать впечатление официального статуса, авторства или одобрения.
+
+8. Отказ от гарантий
+
+Программа предоставляется “как есть”, без каких-либо явных или подразумеваемых гарантий, включая, но не ограничиваясь, гарантиями пригодности для конкретной цели, коммерческой пригодности, отсутствия нарушений прав третьих лиц, бесперебойной или безошибочной работы.
+
+Вы используете программу на свой риск.
+
+9. Ограничение ответственности
+
+В максимально допустимой законом степени автор не несёт ответственности за любые прямые, косвенные, случайные, специальные, последующие, штрафные или иные убытки, возникшие в результате использования или невозможности использования программы, включая, но не ограничиваясь, потерей данных, сбоем системы, упущенной выгодой, перерывом в работе, повреждением аппаратного или программного обеспечения.
+
+10. Обновления и прекращение действия лицензии
+
+Автор может в любое время обновлять, изменять, приостанавливать или прекращать развитие программы либо изменять условия лицензии для будущих версий.
+
+При нарушении условий настоящей лицензии ваши права по ней автоматически прекращаются. После прекращения действия лицензии вы должны прекратить использование и распространение программы и удалить все имеющиеся копии, если иное не разрешено применимым законом.
+
+11. Приоритетный текст
+
+Если настоящая лицензия переведена на другой язык, при противоречиях или неоднозначности преимущественную силу имеет английская версия.
+
+
+
